@@ -45,13 +45,6 @@
 },
 {
    "id": 7,
-    "name_cocktails": "Daiquiri",
-    "ingredients": "3/4 de ron blanco, 1/4 de zumo de limón o lima, 1 cucharadita de azúcar ",
-    "preparation": "Mezclar todos los ingredientes en una coctelera con hielo picado, se agita vigorosamente unos segundos. Servir colado muy frío en copa de cóctel. ",
-    "url": "https://images.unsplash.com/photo-1541288892379-c987c60cd049?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
-},
-{
-   "id": 8,
     "name_cocktails": "Bacardí ",
     "ingredients": "2/5 de ron Bacardí, 1/3 de zumo de limón o lima, 1/2 cucharada de azúcar, 1 golpe de granadina ",
     "preparation": "Preparar en coctelera con hielo picado. Se agita unos segundos. Servir colado en copa de cóctel, bien fría. ",
