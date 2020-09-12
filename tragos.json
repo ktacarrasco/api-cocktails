@@ -44,48 +44,6 @@
     "url": "https://images.unsplash.com/photo-1557765086-a73d2dc3059e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
 },
 {
-   "id": 11,
-    "name_cocktails": "Tequila sunrise ",
-    "ingredients": "3 partes de tequila, 6 partes de zumo de naranja. 1 parte de granadina",
-    "preparation": "Prepare este cóctel directamente en un vaso largo enfriado previamente. Vierta de manera delicada cada uno de los ingredientes para lograr el efecto cromático, no agitar. Adornar con una rodaja de naranja, una cereza, la paja y el agitador. ",
-    "url": "https://images.unsplash.com/photo-1544145945-f766fea72784?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
-},
-{
-   "id": 12,
-    "name_cocktails": "Bloody Mary ",
-    "ingredients": "2/5 de vodka (helado a ser posible), 3/5 de zumo de tomate (helado también), Una pizca de sal y pimienta negra molida, 6 chorritos de salsa worcestershire, 5 gotas de salsa Tabasco, 1 chorrito de jugo de limón o de lima ",
-    "preparation": "Lleve todos los ingredientes a un vaso mezclador y agite con una cucharilla larga hasta que quede todo bien integrado. Sirva en un vaso largo con hielo y decore con un una ramita de apio. ", 
-    "url": "https://images.unsplash.com/photo-1448832328263-620a1a483228?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
-},
-{
-   "id": 13,
-    "name_cocktails": "Caipirinha o Caipiriña ",
-    "ingredients": "50 ml de cachaça, 1 limón, 2 cucharas de azúcar blanca ",
-    "preparation": "Cortar el limón en cuatro pedacitos. Poner dos cucharas de azúcar blanca en un vaso grande y mezclar con el jugo de dos trozos de limón. Añadir 3 cucharas de cachaça y los dos pedazos restantes de limón. Finalmente añadir el hielo picado y remover bien. Sírvase bien frio y con una pajita. ",
-    "url": "https://images.unsplash.com/photo-1598994392980-53a7fb033bcc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
-},
-{
-   "id": 14,
-    "name_cocktails": "Cosmopolitan (o Cosmo) ",
-    "ingredients": "2/4 de vodka (preferentemente vodka citron), 1/4 de licor Triple Sec (Cointreau, Curaçao, Grand Marnier, etc.), 1/4 de jugo de arándanos, 1 chorrito de limón o lima ",
-    "preparation": "Coloque el hielo en la coctelera y agregue el resto de los ingredientes. Agite fuertemente. Cuele y sirva en un gran vaso de cóctel. Decore con una cáscara de naranja o limón. ",
-    "url": "https://images.unsplash.com/photo-1559280247-8fa41750ca29?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
-},
-{
-   "id": 15,
-    "name_cocktails": "Ruso Blanco (White Russian) ",
-    "ingredients": "5 partes de vodka, 2 partes de licor de café (como Kahlúa o Tía María), 3 partes de nata líquida ",
-    "preparation": "Verter el licor de café y el vodka directamente en un vaso bajo y ancho (old fashioned) lleno de hielo. Verter la nata fresca para que flote en la superficie y remover lentamente. Es muy frecuente agitar la nata para conseguir una capa algo espesa en la superficie o añadir algo de nuez moscada. ",
-    "url": "https://images.unsplash.com/photo-1578664183076-f8400be8c30b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
-},
-{
-   "id": 17,
-    "name_cocktails": "Caipiroska",
-    "ingredients": "3 limones de pica, cortadas en cuartos, 3 cucharadas de azúcar, 3/4 tazas de vodka, Hielo molido",
-    "preparation": "En un vaso mediano echar 3 limones de pica y 3 cucharadas de azúcar. Machacar las limas hasta que éstas hayan botado todo su jugo. Llenar el vaso con hielo molido y luego echar el vodka. Decorar con una rodaja delgada de limón de pica.",
-    "url": "https://images.unsplash.com/photo-1573768277009-98726695f7b6?ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80"
-},
-{
    "id": 18,
     "name_cocktails": "Primavera",
     "ingredients": " 60 ml pisco, 30 ml de jugo de piña, 45 ml jugo de naranja, 15 ml de granadina, 5 cubos de hielo, una rodaja de naranja o marrasquino para decorar.",
