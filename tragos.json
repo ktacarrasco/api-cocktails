@@ -16,13 +16,6 @@
     "url": "https://images.unsplash.com/photo-1598509679475-bb4fa54cfeda?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
 },
 {
-   "id": 4,
-    "name_cocktails": "Pink lady ",
-    "ingredients": "3/4 de ginebra seca, 1/4 de zumo de limón, 1 toque de granadina ",
-    "preparation": "Mezclar los componentes en una coctelera llena de hielos. Cuele y sirva en copa de cóctel previamente enfriada.",
-    "url": "https://images.unsplash.com/photo-1527091755570-1daada653420?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
-},
-{
    "id": 5,
     "name_cocktails": "Manhattan",
     "ingredients": "2/3 de whisky ( canadiense o Bourbon a ser posible), 1/3 de vermut (seco o dulce, según se prefiera), 1 golpe de angostura, 1 aceituna verde o 1 guinda ",
@@ -35,13 +28,6 @@
     "ingredients": "3/8 de ron blanco, 2/8 de zumo de piña, 2/8 de leche de coco, 1/8 de nata liquida (opcional)",
     "preparation": "Verter todos los ingredientes en licuadora o coctelera, con hielo picado. Agitar la mezcla hasta que quede suave. Lo propio es servirlo en un coco o una piña vaciados, pero si no es posible, servir en copa enfriada. Decorar con una rodaja de limón y pajitas. ",
     "url": "https://images.unsplash.com/photo-1586124288018-532db41fdee3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
-},
-{
-   "id": 10,
-    "name_cocktails": "Margarita ",
-    "ingredients": "2/4 de tequila, 1/4 de licor Triple Sec (Cointreau, Curaçao, Grand Marnier, etc.), 1/4 de zumo de limón, Sal ",
-    "preparation": "Verter los líquidos en la coctelera con hielo en cubitos. Agitar bien. Escarchar una copa de cóctel con sal y limón. Colar los ingredientes y servir. ",
-    "url": "https://images.unsplash.com/photo-1557765086-a73d2dc3059e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
 },
 {
    "id": 18,
