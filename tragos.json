@@ -9,13 +9,6 @@
   
 },
 {
-   "id": 2,
-    "name_cocktails": "Martini",
-    "ingredients": "1/4 de vermut seco, 3/4 de ginebra seca ",
-    "preparation": "Se echan los ingredientes en un vaso mezclador con hielo en cubitos, se agitan vigorosamente con una cucharilla. Sírvase colado en copa de cóctel, bien fría. Se le suele añadir un poco de zumo de limón y una corteza de éste como decoración, o simplemente una aceituna. ",
-    "url": "https://images.unsplash.com/photo-1564957468535-e8e51b0d2f56?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
-},
-{
    "id": 3,
     "name_cocktails": "Gin Tonic",
     "ingredients": "1/5 de ginebra seca, 4/5 de agua tónica, 3 láminas finas de limón verde o lima.  ",
